@@ -1,6 +1,6 @@
-# ULauncher Theme - elementaryOS Odin Dark
+# ULauncher Theme - elementaryOS Odin Light
 
-A dark ULauncher Theme meant for elementaryOS Odin and up
+A light ULauncher Theme meant for elementaryOS Odin and up
 
 <img src="https://user-images.githubusercontent.com/58484745/147141372-a5f09f36-d2ba-41a0-9b12-2f8f1fddab62.png" width="600" />
 
