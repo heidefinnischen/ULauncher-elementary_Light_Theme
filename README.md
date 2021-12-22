@@ -24,3 +24,8 @@ The preferences button is hidden until you need it. To find it just hover above 
 # Installation
 
 Clone this repository to  `~/.config/ulauncher/user-themes/`
+
+# Sister themes
+
+<img src="https://github.com/heidefinnischen/ULauncher-elementary_Dark_Theme/blob/main/Preview.png?raw=true" width="300"/>
+Dark Theme: https://github.com/heidefinnischen/ULauncher-elementary_Dark_Theme
