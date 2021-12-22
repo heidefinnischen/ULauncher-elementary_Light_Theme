@@ -12,7 +12,7 @@ This theme was designed with elementaryOS in mind. It carefully recreates the lo
 
 # Desktop
 
-<img src="https://github.com/heidefinnischen/ULauncher-elementary_Light_Theme/blob/main/desktop-ligh.png"/>
+<img src="https://github.com/heidefinnischen/ULauncher-elementary_Light_Theme/blob/main/desktop-light.png"/>
 
 This is what the theme looks like on a desktop with a few open windows. It integrates seamlessly with the rest of the applications.
 
