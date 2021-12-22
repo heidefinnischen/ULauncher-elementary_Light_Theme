@@ -12,7 +12,7 @@ This theme was designed with elementaryOS in mind. It carefully recreates the lo
 
 # Desktop
 
-<img src="https://github.com/heidefinnischen/ULauncher-elementary_Light_Theme/blob/main/Resources/desktop-light.png?raw=true"/>
+<img src="https://github.com/heidefinnischen/ULauncher-elementary_Light_Theme/blob/main/Resources/desktop-light.png"/>
 
 This is what the theme looks like on a desktop with a few open windows. It integrates seamlessly with the rest of the applications.
 
@@ -28,7 +28,7 @@ Copy "Odin_Light" to  `~/.config/ulauncher/user-themes/`
 # Related themes
 
 <a href="https://github.com/heidefinnischen/ULauncher-elementary_Dark_Theme">
-<img src="hhttps://github.com/heidefinnischen/ULauncher-elementary_Dark_Theme/blob/main/Resources/preview.png" width="300"/> 
+<img src="https://github.com/heidefinnischen/ULauncher-elementary_Dark_Theme/blob/main/Resources/preview.png" width="300"/> 
 </a>
 
 <br>
