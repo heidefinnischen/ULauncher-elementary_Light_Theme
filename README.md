@@ -1,4 +1,6 @@
-# ULauncher Theme - elementaryOS Odin Light
+# OUTDATED! ULauncher Theme - elementaryOS Odin Light
+
+<h1>This repository is deprecated! The dark and light theme repositories have been merged. Visit https://github.com/heidefinnischen/ULauncher-elementary instead.</h1>
 
 A light ULauncher Theme meant for elementaryOS Odin and up
 
